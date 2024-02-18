@@ -1,4 +1,4 @@
-### Hi there I'm Vladislav Naumkin
+<h3 align="center">Hi there I'm Vladislav Naumkin</h3>
 <p align='center'>
   <a href="https://t.me/naumvlad">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
