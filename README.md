@@ -8,6 +8,8 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<h3 align="left"> I'm a backend developer and have been developing applications in Java since 2021.</h3>
+
 ##
 ## Skills
 
