@@ -10,9 +10,7 @@
 
 <h3 align="left"> I'm a backend developer and have been developing applications in Java since 2021.</h3>
 
-##
-## Skills
-
+<h2 align="left"> Skills</h2>
 <img align="left" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=#F05032" />
 <img align="left" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
